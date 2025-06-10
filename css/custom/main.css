@@ -1,0 +1,74 @@
+
+.content a{
+	text-decoration: none;
+	cursor: pointer;
+	color: #399DFF;
+}
+.content a:HOVER{
+	text-decoration: none;
+	color: #399DFF;
+}
+body{
+	text-align:center;
+}
+.content{
+	text-align:left;
+	margin:0 auto;
+	font-weight: normal;
+	font-size:14px;
+	font-family: Microsoft YaHei;
+	width: 1200px;
+	clear: both;
+}
+.content th{
+	font-weight: normal;
+	text-align: center;
+}
+
+.content thead{
+	color: #929292;
+	font-size: 15px;
+	height:35px ;
+	border-top: 1px solid #DDDDDD;
+}
+.content tbody th{
+	font-size: 13px;
+}
+
+
+.content label{
+	font-weight: bold;
+	margin: 5px;
+}
+.content  button{
+	border: 1px solid #E3E3E3;
+	border-radius : 4px;
+}
+
+.content .mRed{
+	color: #CC0001;
+}
+.content .mBRed{
+	background-color: #CC0001;
+}
+.content .mYellow{
+	color: #FCA91F;
+}
+.content .mBYellow{
+	background-color: #FCA91F;
+}
+.content .mGreen{
+	color: #0C9E0D;
+}
+.content .mBGreen{
+	background-color: #0C9E0D;
+}
+.content .mBGray{
+	background-color: #E3E3E3;
+}
+.mBLightGray{
+	background-color: #F1F1F1;
+}
+.content .mBorder{
+	border: 1px solid #DDDDDD;
+}
